@@ -7,6 +7,6 @@ int main(int argc, char const *argv[])
 
     sum=a+b;
 
-    print(sum);
+    print("the sum is %d",sum);
     return 0;
 }
