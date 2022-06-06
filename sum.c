@@ -6,6 +6,7 @@ int main(int argc, char const *argv[])
     int sum;
 
     sum=a+b;
+printf("Hello ");
 
     print("the sum is %d",sum);
     return 0;
